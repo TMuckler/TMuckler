@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @TMuckler
-- 👀 I’m interested in cybersecurity and systems administration.
-- 🌱 I’m currently learning advanced security operations and SoC analysis.
-- 💞️ I’m looking to collaborate on IT projects and photography events.
-- 📫 How to reach me: [Your Email] | [Your LinkedIn Profile] | [Your Portfolio Website]
-- ⚡ Fun fact: I've had my work exhibited at the BBA Gallery in Berlin, and I love capturing the energy of live events and festivals through my lens!
+👋 Hi, I’m @TMuckler
+I build simple, practical tools that help people engage Scripture every day, without friction.
+👀 Interests
+I’m interested in building small, practical tools that make Scripture easier to see and share daily; web automation and lightweight systems that run reliably, stay simple, and ship fast.
